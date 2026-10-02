@@ -7,25 +7,25 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Zombie survival in abandoned military base 
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is trapped inside an abandoned military base during a zombie outbreak.
+The goal is to explore the base and collect six important items needed to survive: a Protective Vest, Keycard, First Aid Kit, Flashlight, Radio, Weapon. The player must collect all six items before entering the Command Center, where the Zombie Commander is waiting.  
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1.  Start room: Main Gate
+2.  Room: Barracks 
+3.  Room: Security office
+4.  Room: Medical Bay
+5.  Room: Supply Depot 
+6.  Room: Communications Room 
+7.  Room: Armory 
+8.  Villain room: Command Center
 
 Add more rooms if your design needs them.
 
@@ -34,20 +34,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1.  Item: Protective Vest
+2.  Item: Keycard
+3.  Item: First Aid Kit
+4.  Item: Flashlight
+5.  Item: Radio
+6.  Item: Weapon
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
-
+Zombie Commander- A powerful zombie that controls all the infected soldiers inside the abandoned military base. The player must avoid the zombie Commander until all six items have been collected. 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
